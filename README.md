@@ -4,4 +4,4 @@
 
 Product ERD
 
-![the erd for product](https://raw.githubusercontent.com/knightprogramming/ecommerce-backend/documentation/productErd.PNG)
+![the erd for product](https://raw.githubusercontent.com/knightprogramming/ecommerce-backend/master/documentation/productErd.PNG)
